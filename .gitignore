@@ -1,5 +1,6 @@
-build/
-!build/web/
+!build/
+build/*
+!build/web
 # Miscellaneous
 *.class
 *.log
