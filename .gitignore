@@ -1,3 +1,6 @@
+!build/
+build/*
+!build/web
 # Miscellaneous
 *.class
 *.log
@@ -29,6 +32,7 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
+
 
 # Symbolication related
 app.*.symbols
