@@ -62,7 +62,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: transparent;
 }
 
 .bg-darkest-gray {
@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/header-bg.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -302,7 +302,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 
@@ -407,7 +407,9 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background: linear-gradient(to bottom right,black,rgb(34, 34, 34));
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -779,6 +781,7 @@ ul.social-buttons li a:active {
     border: 0;
     border-radius: 0;
     text-align: center;
+    background: linear-gradient(to bottom right,black,rgb(34, 34, 34));
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -863,5 +866,6 @@ img::-moz-selection {
 }
 
 body {
+    background-image: linear-gradient(to top,#25274d,#302f4c);
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
