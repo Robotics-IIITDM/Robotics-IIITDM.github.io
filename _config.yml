@@ -47,16 +47,16 @@ url: ""
 baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Robotics Club IIITDM
+email: robotics@iiitdm.ac.in
+description: "The official website of Robotics Club Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram."
 
 
 # Team names, titles and social links
 people:
-- name: [name]
+- name: [Jawahar]
   pic: 1
-  position: Lead
+  position: CS Lead
   social:
     - title: twitter
       url: #
@@ -65,9 +65,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: [name]
+- name: [Thulashitharan]
   pic: 2
-  position: Lead
+  position: Core
   social:
     - title: twitter
       url: #
@@ -76,9 +76,9 @@ people:
     - title: linkedin
       url: #
 
-- name: [name]
+- name: [Srikrishnan]
   pic: 3
-  position: Lead
+  position: Mech Lead
   social:
     - title: twitter
       url: #
@@ -167,16 +167,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: https://www.instagram.com/roboticsclub.iiitdm/
+  - title: linkedin
+    url: https://www.linkedin.com/company/robotics-club-iiitdm-kancheepuram/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/Robotics-IIITDM
 
 collections:
   blogs:
@@ -185,8 +181,9 @@ collections:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: D6, Pems Block, IIITDM
+  - line: Melakottaiyur, Nellikuppam Rd, Near Kandigai, Off Vandalur-Kelambakkam Road
+  - line: Chennai, Vengadamangalam, Tamil Nadu 600127
 
 # Build settings
 markdown: kramdown
