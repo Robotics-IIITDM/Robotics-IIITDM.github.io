@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: Georgia, serif;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -189,7 +189,6 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
-    
 }
 
 .navbar-default .navbar-toggle {
@@ -259,7 +258,6 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #222;
-        opacity: 0.9;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -271,14 +269,13 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/alternate bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/header-bg.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size:cover ;
+    background-size: cover;
     -o-background-size: cover;
-    
 }
 
 header .intro-text {
@@ -872,6 +869,6 @@ img::-moz-selection {
 }
 
 body {
-    background-image: linear-gradient(to top,#ffffff,#ffffff);
+    background-image: linear-gradient(to top,#25274d,#302f4c);
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
