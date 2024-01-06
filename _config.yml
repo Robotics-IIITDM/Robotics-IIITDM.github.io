@@ -58,111 +58,105 @@ people:
   pic: 1
   position: CS Lead
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/__juzzt__jawa__/
+    - title: linkedin
+      url: https://www.linkedin.com/in/jawahar-a-s-198084252/
+    - title: github
+      url: https://github.com/juzztjawa
 
 - name: [Thulashitharan]
   pic: 2
   position: Core
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/thulashitharan_/
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/thulashitharan-d-460172228
+    - title: user
+      url: https://supernovatux.github.io/
+    - title: github
+      url: https://github.com/Supernovatux
 
 - name: [Srikrishnan]
   pic: 3
   position: Mech Lead
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/scraisk
+    - title: linkedin
+      url: https://www.linkedin.com/in/srikrishnan-srinivasan-672971189
 
-- name: [name]
+- name: [Sakthiprian]
   pic: 4
-  position: Lead
+  position: Senior co-ordinator
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/sakthiprian/
+    - title: linkedin
+      url: https://www.linkedin.com/in/sakthiprian-s-3272a9240/
+    - title: github
+      url: https://github.com/Sakthiprian
 
-- name: [name]
-  pic: 5
-  position: Lead
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: [name]
-  pic: 6
-  position: Lead
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: [name]
-  pic: 7
-  position: Lead
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: [name]
-  pic: 8
-  position: Lead
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: [name]
+- name: [Ezhil]
   pic: 9
-  position: Lead
+  position: Senior co-ordinator
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/mrezhil_012004
+    - title: linkedin
+      url: https://www.linkedin.com/in/ezhil-m-r-24bbb4246/
 
-- name: [name]
-  pic: 10
-  position: Lead
+- name: [Vedhava Krishna]
+  pic: 5
+  position: Co-ordinator
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/yng.vedha_k
+    - title: linkedin
+      url: https://www.linkedin.com/in/k-r-vedhava-krishna-7a425a250/
+
+- name: [Prahlad]
+  pic: 6
+  position: Co-ordinator
+  social:
+    - title: instagram
+      url: https://www.instagram.com/p_r_a_h_l_a_d_1284/
+    - title: linkedin
+      url: https://www.linkedin.com/in/sridatta-prahlad-boddepalli-215576250/
+
+- name: [Kalaiyarasan]
+  pic: 7
+  position: Co-ordinator
+  social:
+    - title: instagram
+      url: https://www.instagram.com/kalai0452
+    - title: linkedin
+      url: https://www.linkedin.com/in/s-kalaiyarasan-b8476a21b/
+    - title: github
+      url: https://github.com/kalai0452
+
+- name: [Aakash Madhu]
+  pic: 8
+  position: Co-ordinator
+  social:
+    - title: instagram
+      url: https://www.instagram.com/aakash_madhu_s/
+    - title: linkedin
+      url: https://www.linkedin.com/in/aakash-madhu-60869b261
+    - title: github
+      url: https://github.com/Therriaakash
+
+- name: [Nuaim]
+  pic: 10
+  position: Co-ordinator
+  social:
+    - title: instagram
+      url: https://www.instagram.com/ace_falcon._/
+    - title: linkedin
+      url: https://www.linkedin.com/in/nuaim-mohammed-c-l-78532626a/
+    - title: github
+      url: https://github.com/Talentedfalcon
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
