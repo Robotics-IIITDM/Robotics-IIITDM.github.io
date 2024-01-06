@@ -54,24 +54,6 @@ description: "The official website of Robotics Club Indian Institute of Informat
 
 # Team names, titles and social links
 people:
-- name: [Mayank]
-  pic: 11
-  position: Alumni
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/mayank-navneet-mehta/
-    - title: github
-      url: https://github.com/meetm473
-
-- name: [Utkarsh]
-  pic: 12
-  position: Alumni
-  social:
-    - title: user
-      url: https://utkarshverma.me/
-    - title: github
-      url: https://github.com/UtkarshVerma
-
 - name: [Jawahar]
   pic: 1
   position: CS Lead
@@ -176,7 +158,23 @@ people:
     - title: github
       url: https://github.com/Talentedfalcon
 
+- name: [Mayank]
+  pic: 11
+  position: Alumni
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mayank-navneet-mehta/
+    - title: github
+      url: https://github.com/meetm473
 
+- name: [Utkarsh]
+  pic: 12
+  position: Alumni
+  social:
+    - title: user
+      url: https://utkarshverma.me/
+    - title: github
+      url: https://github.com/UtkarshVerma
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
