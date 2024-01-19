@@ -2,12 +2,12 @@
 title: Flipkart Grid Hackathon
 layout: default
 modal-id: 2
-date: 2024-01-06
+date: 2023-08-26
 img: flipkart-grid.png
 thumbnail: flipkart-grid-thumbnail.png
 alt: image-alt
 project-date: 2023
-category: Selected Round 2
+category: Hackathon
 ---
 
 <ul>

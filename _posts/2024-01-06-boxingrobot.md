@@ -7,7 +7,7 @@ img: boxing-robot.png
 thumbnail: boxing-robot-thumbnail.png
 alt: image-alt
 project-date: January 2024
-category: Work-In-Progress
+category: Funded Project 
 ---
 <ul>
     <li>
