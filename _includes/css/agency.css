@@ -872,3 +872,34 @@ body {
     background-image: linear-gradient(to top,#25274d,#302f4c);
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.row-flex{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    row-gap: 20px;
+}
+
+.client-flex{
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.client-img{
+    max-height: 250px;
+    border-radius: 20px;
+    transition: 0.1s;
+    outline: solid black 1px;
+}
+
+.client-img:hover{
+    outline: 5px solid #{{ site.data.template.color.primary }};
+}
+
+.client-img-container{
+    margin-left: 40px;
+    margin-right: 40px;
+}
