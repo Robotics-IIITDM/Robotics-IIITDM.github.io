@@ -889,7 +889,7 @@ body {
 }
 
 .client-img{
-    max-height: 250px;
+    max-height: 150px;
     border-radius: 20px;
     transition: 0.1s;
     outline: solid black 1px;
@@ -900,6 +900,6 @@ body {
 }
 
 .client-img-container{
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
