@@ -668,7 +668,7 @@ section h3.section-subheading {
 }
 
 aside.clients img {
-    margin: 50px auto;
+    margin: 0px auto;
 }
 
 section#contact {
@@ -899,10 +899,14 @@ body {
 }
 
 .client-img{
-    max-height: 150px;
+    height: 150px;
+    max-width: 250px;
+    object-fit: contain;
     border-radius: 20px;
     transition: 0.1s;
     outline: solid black 1px;
+    background-color: white;
+    margin: 0;
 }
 
 .client-img:hover{
